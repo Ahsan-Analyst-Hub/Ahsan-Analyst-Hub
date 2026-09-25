@@ -13,7 +13,7 @@ I am a data-driven professional transitioning my extensive retail and commercial
 I particularly enjoy projects involving:
 | Project # 01 | Project # 02 | Project # 03 |
 |--- | ---| ---|
-| Business Intelligence & Dashboard Development | Retail & Customer Analytics | Sales & Profitability Analysis |
+| Fly Tipping Intelligence Analytics |Customer Rating Business Intelligence | Retail & Customer Analytics | Sales & Profitability Analysis |
 | Customer Experience Analytics |  Data Cleaning & Transformation | SQL Data Analysis |
 | Data Modelling | KPI Development | Business Performance Analysis |
 
@@ -38,6 +38,7 @@ I particularly enjoy projects involving:
 
 | Project | Description | Skills / Tools |
 |---|---|---|
+| **[Fly-Tipping Intelligence & Enforcement Analytics](https://github.com/Ahsan-Analyst-Hub/Fly-Tipping-Intelligence-Enforcement-Analytics.git)** | This project is a synthetic Business Intelligence and Intelligence Analysis case study designed around a Lead Intelligence Analyst scenario supporting fly-tipping enforcement across Kent Council. The project demonstrates how raw incident data can be transformed into actionable intelligence through data cleaning, transformation, SQL analysis, Power BI data modelling, DAX and interactive visualisation. | **Power BI · SQL Analysis . DAX · Power Query · Data Modelling · Star Schema · Time Intelligence · KPI Development · Business Intelligence** |
 | **[🏆 Chaiiwala – Customer Experience Intelligence & Feedback Integrity Platform](https://github.com/Ahsan-Analyst-Hub/Chaiiwala---Business-Intelligence-Analysis-case-study-)** | A comprehensive Customer Experience Business Intelligence platform designed to analyse customer feedback across multiple Chaiiwala locations. The project transforms customer experience data into actionable insights covering service quality, product quality, cleanliness, seating, stock availability, checkout experience and promotional awareness. It also incorporates feedback integrity and data-quality considerations to support brand protection and consistent franchise standards. | **Power BI · DAX · Power Query · Data Modelling · Star Schema · Customer Experience Analytics · KPI Development · Business Intelligence** |
 | **[☕ Nespresso Coffee Shop Expansion Analysis](https://github.com/Ahsan-Analyst-Hub/Nespresso-Coffee-Shop-Project)** | Analyses Nespresso UK sales, customer, product, population and city-level data to identify the strongest opportunities for future coffee shop expansion. The analysis evaluates sales performance, customer demand, estimated market potential and rental considerations to recommend priority cities. | **SQL · Data Analysis · Data Cleaning · Joins · Aggregation · Business Analysis · Retail Analytics** |
 | **[🛍️ Retail Sales & Holiday Impact Analysis](https://github.com/Ahsan-Analyst-Hub/Retail-Sales-Holiday-Impact-Analysis)** | End-to-end retail analytics project analysing historical sales across 45 stores and multiple departments. The project investigates holiday sales performance, promotional markdown effectiveness, store performance and macroeconomic factors while applying data-quality assessment and a scalable star-schema model. | **SQL Server · Power BI · DAX · Power Query · Data Quality Assessment · Star Schema · Data Modelling · Retail Analytics · Dashboard Development** |
