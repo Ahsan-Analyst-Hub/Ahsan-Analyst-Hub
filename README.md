@@ -2,7 +2,7 @@
 
 ## Data Analyst | Business Intelligence | Retail Analytics
 
-Business-focused Data Analyst with 20+ years of retail leadership experience, combining commercial expertise with data analytics and Business Intelligence to transform operational, customer and sales data into actionable insights.
+Business-focused Data Analyst with 13+ years of retail leadership experience, combining commercial expertise with data analytics and Business Intelligence to transform operational, customer and sales data into actionable insights.
 
 ---
 
